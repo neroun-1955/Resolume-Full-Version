@@ -236,4 +236,4 @@ This repository serves as the official landing page for Resolume. The software i
 **Get the most recent version of Resolume today!**
 
 ---
-**Last updated:** 2026-10-29 03:50:22 UTC
+**Last updated:** 2026-10-29 10:38:03 UTC
